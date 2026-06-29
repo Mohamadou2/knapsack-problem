@@ -48,3 +48,17 @@ python sac_dos.py
 ```
 
 ## 📤 Résultat attendu
+
+Prendre l'objet A
+
+Prendre l'objet B
+
+Prendre l'objet D
+
+Prendre l'objet E
+
+## 👤 Auteur
+
+**Mamadou Abou Ba** — Étudiant DA2I 
+🔗 [GitHub](https://github.com/Mohamadou2)
+
